@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm @popeye68 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=popeye68&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 - Backend APIs with database integration  
 
 ### 📫 Reach Me At  
-- Telegram: [@POPEYE68BOT](https://t.me/YourTelegram)  
+- Telegram: [@POPEYE68BOT](https://t.me/POPEYE68BOT)  
 - Email: Find by yourself.
 
 ### 😄 Pronouns  
