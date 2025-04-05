@@ -49,5 +49,5 @@ I break stuff until it works — then I optimize it like a pro.
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”*
+> *“Code is like humor. When you have to explain it, it’s bad. Still Learning”*
 
