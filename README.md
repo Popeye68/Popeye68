@@ -23,7 +23,7 @@
 
 ### 📫 Reach Me At  
 - Telegram: [@POPEYE68BOT](https://t.me/POPEYE68BOT)  
-- Email: Find by yourself.
+- Email: [GET HERE](popeye68.dev@gmail.com)
 
 ### 😄 Pronouns  
 He / Him  
